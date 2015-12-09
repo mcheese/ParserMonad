@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+PointerAlignment: Left
+AlwaysBreakTemplateDeclarations: true
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+BreakConstructorInitializersBeforeComma: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+BreakBeforeBraces: Attach
+Cpp11BracedListStyle: false
+
